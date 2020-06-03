@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/celeb/static/css/main.a01ef009.chunk.css",
+    "main.js": "/celeb/static/js/main.ba4c8376.chunk.js",
+    "main.js.map": "/celeb/static/js/main.ba4c8376.chunk.js.map",
+    "runtime-main.js": "/celeb/static/js/runtime-main.3fee21d1.js",
+    "runtime-main.js.map": "/celeb/static/js/runtime-main.3fee21d1.js.map",
+    "static/js/2.3cd23d3e.chunk.js": "/celeb/static/js/2.3cd23d3e.chunk.js",
+    "static/js/2.3cd23d3e.chunk.js.map": "/celeb/static/js/2.3cd23d3e.chunk.js.map",
+    "index.html": "/celeb/index.html",
+    "precache-manifest.3a264486559cbdad750b8d1b8d335cf2.js": "/celeb/precache-manifest.3a264486559cbdad750b8d1b8d335cf2.js",
+    "service-worker.js": "/celeb/service-worker.js",
+    "static/css/main.a01ef009.chunk.css.map": "/celeb/static/css/main.a01ef009.chunk.css.map",
+    "static/js/2.3cd23d3e.chunk.js.LICENSE.txt": "/celeb/static/js/2.3cd23d3e.chunk.js.LICENSE.txt",
+    "static/media/2face.jpg": "/celeb/static/media/2face.ee54e0d4.jpg",
+    "static/media/burna.jpg": "/celeb/static/media/burna.1b257aa8.jpg",
+    "static/media/davido.jpg": "/celeb/static/media/davido.dd8933d1.jpg",
+    "static/media/dremo.jpg": "/celeb/static/media/dremo.f1349efc.jpg",
+    "static/media/erriga.jpg": "/celeb/static/media/erriga.88fae98a.jpg",
+    "static/media/marley.jpg": "/celeb/static/media/marley.c6a10a69.jpg",
+    "static/media/mayorkun.jpg": "/celeb/static/media/mayorkun.16482d0b.jpg",
+    "static/media/olamide.jpg": "/celeb/static/media/olamide.e20e58f5.jpg",
+    "static/media/wizkid.jpg": "/celeb/static/media/wizkid.b7acca15.jpg",
+    "static/media/zlatan.jpg": "/celeb/static/media/zlatan.d9ffb6a9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3fee21d1.js",
+    "static/js/2.3cd23d3e.chunk.js",
+    "static/css/main.a01ef009.chunk.css",
+    "static/js/main.ba4c8376.chunk.js"
+  ]
+}
